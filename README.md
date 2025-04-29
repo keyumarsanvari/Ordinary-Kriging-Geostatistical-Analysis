@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/57e0ffe1-0f2c-456c-9d44-7df77b0eb753)
 
 # Ordinary Kriging Geostatistical Analysis
 
@@ -48,4 +49,4 @@ pip install pandas numpy matplotlib pykrige pyvista
 > Email: keyumarsanvari@gmail.com
 
 ---
-"# Ordinary-Kriging-Geostatistical-Analysis" 
+
